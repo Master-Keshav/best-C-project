@@ -9,3 +9,4 @@ printf("Hello World!");
 ```
 
 > "This is the greatest C app ever made" - Dennis Ritchie
+> "Better than my C++" - Bjarne Stroustrup
