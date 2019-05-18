@@ -9,5 +9,7 @@ printf("Hello World!");
 ```
 
 > "This is the greatest C app ever made" - Dennis Ritchie
+
 <br />
+
 > "Better than my C++" - Bjarne Stroustrup
